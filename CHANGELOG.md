@@ -2,6 +2,25 @@
 
 All versions are working snapshots of an evolving exploration.
 
+## v1.1 — Mathematical scope and epistemic-status revision (2026-10-21)
+
+### Changed
+- Added explicit definition, metaphor, hypothesis, candidate-model and open-placeholder labels.
+- Replaced property/entity subset notation and additive conceptual expressions in the current framework.
+- Separated unknown categories (`U_cat`), unknown dimensions (`U_dim`), rules (`K`) and empirical model error (`e`).
+- Made category labels nonexclusive and spectrum language explicitly metaphorical.
+- Replaced unrestricted future-function and threat-monotonicity expressions with scoped hypotheses.
+- Distinguished workflows and possible mechanisms from established causal effects.
+- Replaced the collective-output sum with a proposed matched-performance comparison; no measured synergy is claimed.
+- Added a bounded, unvalidated model example with measurement and failure conditions.
+- Marked X-IB as a hypothetical scenario extension absent from the original public v1.
+
+### Preserved
+- `IBC_v1.md` remains unchanged as the historical public snapshot.
+- `NOTATION_AUDIT.md` records the original formulations, hidden assumptions and proposed replacements.
+- Uncertainty, unexplained observations, negative results and competing interpretations remain part of the inquiry.
+- No new empirical validation or established natural law is claimed.
+
 ## v1 — Initial public working draft
 
 ### Added
