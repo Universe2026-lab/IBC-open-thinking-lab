@@ -20,23 +20,15 @@ That question expanded into broader questions about:
 - economics and work;
 - scientific R&D.
 
+## Notation status
+
+This file describes the originating case. It does not establish general collaboration benefits. The original public v1 framework is preserved in `IBC_v1.md`; the expression audit records the reasons for notation changes.
+
 ## Method
 
 The dialogue repeatedly followed a pattern like:
 
-\[
-\text{question}
-\rightarrow
-\text{different views}
-\rightarrow
-\text{disagreement}
-\rightarrow
-\text{reconstruction}
-\rightarrow
-\text{revision}
-\rightarrow
-\text{new synthesis}
-\]
+**[M: reported workflow]** Questions, different views, disagreement, reconstruction, revision and synthesis describe a possible iterative pattern. This is a case description, not a guaranteed sequence or a causal model. Preserved raw dialogue is needed to evaluate it.
 
 The process emphasized:
 
@@ -57,21 +49,11 @@ ChatGPT contributed synthesis, alternative formulations, mathematical representa
 
 Many resulting ideas emerged through interaction rather than being fully formed at the outset by either participant.
 
-A provisional representation is:
+A possible future evaluation is:
 
-\[
-O_{\text{collective}}
-=
-O_H
-+
-O_M
-+
-S_{\text{interaction}}
--
-L_{\text{coord}}
-\]
+**[H; proposed comparison]** Under a matched protocol, compare independently evaluated human–HMHI performance with both human-only and machine-only baselines, with comparable total resources and uncertainty estimates. A joint advantage would support that comparison in that setting; it would not separately identify synergy and coordination losses. The original additive outcome expression was a conceptual analogy, not an estimated decomposition. See [NOTATION_GUIDE.md](NOTATION_GUIDE.md).
 
-This is not presented as proof of IBC. It is simply one small naturalistic case of human–HMHI coordination.
+The originating dialogue is one small naturalistic case of human–HMHI coordination. The proposed comparison has not been performed and is not evidence of an advantage.
 
 ## Why preserve the process?
 
@@ -84,7 +66,7 @@ For that reason, later versions should preserve:
 - unresolved questions;
 - major disagreements;
 - changes caused by external criticism;
-- new residuals added to \(R\).
+- new unresolved category and dimension questions in `U_cat` and `U_dim`, and unexplained empirical residual patterns kept separately.
 
 ## Public-development philosophy
 
