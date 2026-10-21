@@ -24,33 +24,17 @@ Public discussion often emphasizes competition:
 
 IBC asks us to see **competition and coordination together**.
 
-\[
-\text{Future of intelligent systems}
-=
-F(\text{Competition},\text{Coordination},\ldots)
-\]
+**[H/O]** Within a specified system and time horizon, competition, coordination and other contextual processes may influence defined outcomes. The direction, interaction and scope remain open; no predictive function is specified.
 
 The working idea is that different intelligent beings may occupy different regions, or metaphorical “wavelengths,” of a broader intelligence spectrum. Their future interactions may involve specialization, overlap, competition, coordination, and emergent collective capability rather than simple replacement.
 
 ## Working categories
 
-The present framework uses:
+**[D/O]** The working vocabulary includes human, nonhuman-animal, cellular and HMHI labels. Labels can overlap and require stated inclusion criteria. Unknown category questions are recorded separately in `U_cat`; they are not an identified being or an exhaustive category.
 
-\[
-\mathcal B
-=
-\{
-B_{\text{human}},
-B_{\text{animal}},
-B_{\text{cellular}},
-B_{\text{HMHI}},
-R
-\}
-\]
+The former `R` notation is separated into unresolved categories (`U_cat`), unresolved dimensions (`U_dim`), rules (`K`) and measured model errors (`e`). Unknown is not zero, and a model error is not evidence of an unknown intelligence.
 
-where \(R\) preserves unnamed, uncovered, or currently unknown forms of intelligence.
-
-For present AI systems we provisionally use:
+**[D]** For present AI systems we provisionally use:
 
 **HMHI — Human–Machine Hybrid Intelligence**
 
@@ -58,7 +42,10 @@ The term is not treated as final.
 
 ## What this repository contains
 
-- `IBC_v1.md` — current working framework
+- [IBC_framework.md](IBC_framework.md) — current working framework, v1.1 notation revision
+- [NOTATION_GUIDE.md](NOTATION_GUIDE.md) — conceptual definitions and a bounded, unvalidated model example
+- [NOTATION_AUDIT.md](NOTATION_AUDIT.md) — expression-by-expression audit of the original public v1
+- [IBC_v1.md](IBC_v1.md) — preserved historical v1 framework
 - `OPEN_QUESTIONS.md` — unresolved questions and residuals
 - `DEVELOPMENT_NOTES.md` — how the exploration emerged
 - `CHANGELOG.md` — version history
@@ -76,7 +63,7 @@ Useful contributions include:
 - providing counterexamples;
 - adding cases from biology, R&D, economics, society, or technology;
 - proposing alternative system boundaries;
-- expanding the residual \(R\);
+- documenting unresolved categories, dimensions and unexplained observations;
 - showing where the framework fails.
 
 If the project causes someone to ask a question they had not previously considered, it is already useful.
@@ -89,6 +76,10 @@ The process itself is part of the project.
 
 ## Status
 
-**Working Draft v1**
+**Working snapshot v1.1 — notation revision**
+
+Notation is labeled **definition (D)**, **metaphor (M)**, **hypothesis (H)**, **measurable-model candidate (MM candidate)** or **open placeholder (O)**. No empirical model in this repository is presented as validated. The equations are thinking tools, not established natural laws. Workflow arrows do not establish causation; conceptual lists do not imply additivity.
+
+X-IB is introduced only as an explicitly hypothetical scenario extension. It is not a detected being or guaranteed future stage.
 
 Everything here remains open to revision.
