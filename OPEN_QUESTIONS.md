@@ -8,7 +8,7 @@ IBC is intentionally incomplete. This file records questions that should remain 
 - Is intelligence necessary but not sufficient for an intelligent being?
 - What additional dimensions belong beside intelligence?
 - How should emotion, wisdom, capability, values, embodiment, memory, and experience be represented?
-- What remains inside the residual \(R\)?
+- What remains inside unresolved category and dimension registers (`U_cat`, `U_dim`)?
 
 ## Intelligence spectrum
 
@@ -94,3 +94,18 @@ IBC is intentionally incomplete. This file records questions that should remain 
 - What forms of collective capability appear only through coordination?
 - How should human values be distinguished from universal structure?
 - What becomes possible when different intelligent beings compete and coordinate within the same evolving world?
+
+
+## Notation, measurement and epistemic status
+
+- Which inclusion criteria and levels of analysis justify each nonexclusive label?
+- Which property fields are measured, inferred, unknown, not assessed, or justified as not applicable?
+- Which performance measures are comparable across tasks, substrates and environments?
+- What would distinguish a merely flexible explanation from a model with predictions that could fail?
+- Which competition and coordination indicators are reliable, and do they add predictive value in held-out data?
+- Under which conditions does shared threat reduce rather than increase coordination?
+- How should uncertainty and boundary sensitivity be reported without treating ignorance as zero?
+- Which residual patterns reflect measurement error, misspecification, omitted variables or other causes?
+- What evidence could distinguish an X-IB candidate from existing categories? Its existence, autonomy, curiosity, consciousness and moral status remain separate questions.
+
+See [the notation guide](NOTATION_GUIDE.md). Open questions are not evidence that their proposed referents exist.
