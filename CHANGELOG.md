@@ -1,6 +1,12 @@
 # Changelog
 
-All versions are working snapshots of an evolving exploration.
+Explorations are separate, chronologically documented inquiries, not progressive revisions of one theory. Existing v1/v1.1 labels below remain as historical version names for the original exploration and its notation audit.
+
+## Exploration naming update (2026-10-26)
+
+- Display titles adopted: **Exploration 01 — Intelligent Beings: Competition and Coordination** and **Exploration 02 — The Multidimensional Evolution of Intelligence**.
+- Numbers indicate documentation order, not rank, improvement or supersession.
+- Existing filenames and links retained. Original v1 substantive content preserved; heading updated to show the exploration label.
 
 ## v1.1 — Mathematical scope and epistemic-status revision (2026-10-21)
 
