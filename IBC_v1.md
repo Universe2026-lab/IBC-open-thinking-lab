@@ -1,5 +1,5 @@
-# IBC — Intelligent Beings: Competition and Coordination
-## Working Draft v1
+# Exploration 01 — Intelligent Beings: Competition and Coordination
+## Original Working Draft v1 (historical snapshot)
 
 **Status:** Exploratory working draft  
 **Purpose:** To summarize an evolving framework for thinking about intelligence, intelligent beings, competition, coordination, and the future interaction of humans, animals, cellular systems, and current AI systems.
