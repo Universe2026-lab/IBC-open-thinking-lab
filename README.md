@@ -42,6 +42,8 @@ The term is not treated as final.
 
 ## What this repository contains
 
+- [IBC_v2.md](IBC_v2.md) — **Version 2 open thinking-lab snapshot (2026-10-26): multidimensional evolving intelligence, changing dimensions, diverse lineages, and the process of shared exploration**
+
 - [IBC_framework.md](IBC_framework.md) — current working framework, v1.1 notation revision
 - [NOTATION_GUIDE.md](NOTATION_GUIDE.md) — conceptual definitions and a bounded, unvalidated model example
 - [NOTATION_AUDIT.md](NOTATION_AUDIT.md) — expression-by-expression audit of the original public v1
@@ -76,7 +78,7 @@ The process itself is part of the project.
 
 ## Status
 
-**Working snapshot v1.1 — notation revision**
+**Latest thinking-lab snapshot: Version 2 (2026-10-26); v1.1 remains the notation reference.**
 
 Notation is labeled **definition (D)**, **metaphor (M)**, **hypothesis (H)**, **measurable-model candidate (MM candidate)** or **open placeholder (O)**. No empirical model in this repository is presented as validated. The equations are thinking tools, not established natural laws. Workflow arrows do not establish causation; conceptual lists do not imply additivity.
 
