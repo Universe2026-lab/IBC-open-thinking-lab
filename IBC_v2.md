@@ -1,4 +1,4 @@
-# IBC Version 2 — Intelligence as an Evolving Multidimensional Ecosystem
+# Exploration 02 — The Multidimensional Evolution of Intelligence
 
 **Public thinking-lab snapshot — 2026-10-26**  
 **Status:** Open exploration, not a finished theory, predictive model, research program, or prescription.  
@@ -13,7 +13,7 @@
 
 This document records **thinking processes and provisional outcomes arising from one or more starting points during a particular time window, under the contributors' then-current knowledge, assumptions, observational access, and intellectual conditions**. Other people and intelligent systems could start elsewhere and generate different maps. Sharing is not asking anyone to agree.
 
-Version 2 does not supersede the historical text of [Version 1](IBC_v1.md) or the [v1.1 notation audit](NOTATION_AUDIT.md). It represents further movement in the exploration. Revision, contradiction, abandonment and new questions are expected. No endpoint or mandatory test plan is imposed.
+Exploration 02 is a separate, historically subsequent line of inquiry, not a revised edition of [Exploration 01](IBC_v1.md) or the [v1.1 notation audit](NOTATION_AUDIT.md). It records a different set of questions and connections. Revision, contradiction, abandonment and new questions are expected. No endpoint or mandatory test plan is imposed.
 
 This summary is a retrospective synthesis, **not a verbatim transcript**. Original exchanges, including mistakes and revisions, should be preserved as separate primary dialogue records if published. Neither participant's ideas or wording should be silently recast as the other's.
 
